@@ -1,0 +1,6 @@
+{
+  "proxyproviders": [
+	  {"url": "http://www.66ip.cn",  "timeout": 5}
+
+  ]
+}
